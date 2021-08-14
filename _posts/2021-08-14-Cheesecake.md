@@ -16,7 +16,6 @@ Préparation : 30 min
 Repos : Une Nuit
 
 Cuisson : 1h45min `(45m à 180°, 30 à 160° et 30 porte four éteint)`
-
 ## Ingredients
 
 **La base du cheesecake :**
@@ -33,7 +32,6 @@ Cuisson : 1h45min `(45m à 180°, 30 à 160° et 30 porte four éteint)`
 * 2 gros oeufs + 1 jaune
 * 1/2 cc sel
 * 30 gr fécule
-
 ## Préparation
 
 ### Fond du Cheese Cake
@@ -48,7 +46,7 @@ Ajouter le `beurre` fondu.
 Couvrir le fond d'un moule de papier cuisson puis placer le mélange `biscuits + beurre`
 
 **Étape 4**
-Cuire pendant  10 minutes à 180 ° et laisser refroidir
+Cuire pendant  10 minutes à 180 ° et laisser refroidir.
 
 ### Appareil du Cheese Cake
 
